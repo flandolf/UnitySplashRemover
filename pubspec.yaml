@@ -1,0 +1,27 @@
+name: unity_splash_remover
+description: Unity Splash Screen Remover.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^5.3.0
+  window_manager: ^0.3.2
+  flutter_colorpicker: ^1.0.3
+  cupertino_icons: ^1.0.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+flutter_launcher_icons:
+  image_path: "app_icon.png"
+  windows:
+    generate: true
+    image_path: "app_icon.png"
+    icon_size: 128 # min:48, max:256, default: 48
