@@ -7,8 +7,7 @@ This is an app that removes the Unity splash screen from Windows builds.
 ## Installation
 1. Download the latest release from [here](https://github.com/flandolf/UnitySplashRemover/releases).
 2. Extract the zip file.
-3. Run `UnitySplashRemover.exe`.
-4. Enjoy!
+3. Run `unity_splash_remover.exe`.
 ## Dependencies
 -   file_picker: ^5.3.0
 -   window_manager: ^0.3.2
@@ -20,4 +19,4 @@ This project is not affiliated with Unity Technologies or any of its affiliates.
 The creator of this software is not responsible for any damages caused by the use of this software. Use at your own risk. ***EDUCATIONAL PURPOSES ONLY***
 ## Screenshots
 ![Main Screen](screenshot.png)
-![Color Picker](screenshot 2.png)
+![Color Picker](screenshot2.png)
