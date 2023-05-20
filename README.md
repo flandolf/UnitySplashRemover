@@ -2,7 +2,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/flandolf/UnitySplashRemover?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/flandolf/UnitySplashRemover?style=for-the-badge)
 ![GitHub all releases](https://img.shields.io/github/downloads/flandolf/UnitySplashRemover/total?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/flandolf/UnitySplashRemover?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/flandolf/UnitySplashRemover?style=for-the-badge)  
 This is an app that removes the Unity splash screen from Windows builds.
 ## Installation
 1. Download the latest release from [here](https://github.com/flandolf/UnitySplashRemover/releases).
